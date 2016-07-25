@@ -1,0 +1,2 @@
+racecar-simulator/racecar_control:racecar-simulator/racecar_description:racecar-simulator/racecar_gazebo:racecar-simulator/racecar_simulator:racecar/ackermann_cmd_mux:racecar/pwm_sysfs_driver:racecar/racecar:racecar/sum_and_average:racecar/turtlesim_gamepad_control:racecar/turtlesim_openloop_control:vesc/vesc:vesc/vesc_ackermann:vesc/vesc_driver:vesc/vesc_msgs:vision
+-DCATKIN_DEVEL_PREFIX=/home/racecar/racecar-ws/devel -DCMAKE_INSTALL_PREFIX=/home/racecar/racecar-ws/install -G Unix Makefiles
